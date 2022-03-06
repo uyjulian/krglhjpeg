@@ -1,0 +1,8 @@
+[submodule "external/tp_stubz"]
+	path = external/tp_stubz
+	url = https://github.com/uyjulian/tp_stubz.git
+	branch = mingw
+[submodule "external/libjpeg-turbo"]
+	path = external/libjpeg-turbo
+	url = https://github.com/krkrz/libjpeg-turbo.git
+	ignore = dirty
